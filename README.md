@@ -13,7 +13,7 @@ Phase 3 is where we will fit a second-order model in the vicinity of where we id
 
 A confirmation phase is required to validate our model. We will conduct a confirmation phase to ensure the sustainability of our model. A comparative probability metric approach is chosen to evaluate the model. When comparing the model with observations, it seems appropriate to use a commensurate probability metric.
 
-The objective is to determine the levels of factors that minimize browsing time. This 5-phase experiment will hopefully help us find the location of the optimum.
+The objective is to determine the levels of factors that minimize browsing time. This 4-phase experiment will hopefully help us find the location of the optimum.
 
 
 
