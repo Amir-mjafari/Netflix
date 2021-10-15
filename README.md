@@ -1,5 +1,7 @@
-## PLEASE READ THE FOLLOWING EXPLANATION ABOUT WHAT WE NEED TO OPTIMIZE AND HOW WE WILL GET IT DONE IN 4 PHASES. 
-## ALL DATA ARE PROVIDED BY A WEB-BASED DATA SIMULATOR WITH IMPOSING LIMITATION OF RESOURCES.
+
+## PROJECT DESCRIPTION
+**PLEASE READ THE FOLLOWING EXPLANATION ABOUT WHAT WE NEED TO OPTIMIZE AND HOW WE WILL GET IT DONE IN 4 PHASES.** 
+**ALL DATA ARE PROVIDED BY A WEB-BASED DATA SIMULATOR WITH IMPOSING LIMITATION OF RESOURCES.**
 
 We are trying to minimize the browsing time netflix users experience in order to choose a program of interest.  This project will explore four of the many possible influential factors. The tile size, preview length, match score, and preview type are the main factors we would like to experiment with. Except for the Preview type, other factors are continuous factors. There is a different strategy to treat categorical factors. There will be separate experiments performed on each Preview level and the Preview type that provides shorter browsing time would be of interest to us.
 
